@@ -30,3 +30,5 @@ def function(**kwargs):
 
 print(function(testing='one'))
 print(dict(testing='one'))
+
+print("It is done")
