@@ -1,2 +1,2 @@
 # git-github
-This is for tutorial purpose
+This is a holding place for my numerous python projects
